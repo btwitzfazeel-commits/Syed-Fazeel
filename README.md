@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="1600" height="639" alt="github banner" src="https://github.com/user-attachments/assets/02a4c8fe-9125-4e7b-ade1-f0c254c406ba" />
+<img width="1600" height="639" alt="github banner" src="1793428553298.png" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
