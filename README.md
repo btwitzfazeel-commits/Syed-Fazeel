@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="1600" height="639" alt="github banner" src="WhatsApp Image 2026-10-31 at 12.09.45 PM.jpeg" />
+<img width="1600" height="639" alt="github banner" src=" 1793428553298.jpeg" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
